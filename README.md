@@ -6,11 +6,13 @@ This project involved performing a statistical investigation on a real-world dat
 **Dataset & Analysis:**  
 - Selected dataset from [source, e.g., City of Toronto Open Data]  
 - Conducted statistical analyses including summary statistics, visualizations (bar charts, histograms, boxplots), and statistical tests (correlation tests, t-tests, ANOVA)  
-- Interpreted results in context and wrote clear, accessible narratives for each research question  
+- Interpreted results in context and wrote clear, accessible narratives for each research question
+- FINAL RESULT FOUND IN Data Analysis Report (2).pdf
 
 **Infographic:**  
 - Designed an infographic summarizing key insights from the analysis  
-- Focused on clarity and visual storytelling, using <Canva>  
+- Focused on clarity and visual storytelling, using <Canva>
+- FINAL RESULT FOUND IN Infographics.pdf
 
 **My Contributions:**  
 - Formulated research questions and conducted statistical analysis in R  
